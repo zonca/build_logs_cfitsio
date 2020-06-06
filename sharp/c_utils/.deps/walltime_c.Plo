@@ -1,0 +1,10 @@
+c_utils/walltime_c.lo: \
+ /home/zonca/zonca/p/software/healpy/healpixsubmodule/src/common_libraries/libsharp/c_utils/walltime_c.c \
+ /usr/include/stdc-predef.h /usr/lib/gcc/x86_64-linux-gnu/5/include/omp.h \
+ /home/zonca/zonca/p/software/healpy/healpixsubmodule/src/common_libraries/libsharp/c_utils/walltime_c.h
+
+/usr/include/stdc-predef.h:
+
+/usr/lib/gcc/x86_64-linux-gnu/5/include/omp.h:
+
+/home/zonca/zonca/p/software/healpy/healpixsubmodule/src/common_libraries/libsharp/c_utils/walltime_c.h:
